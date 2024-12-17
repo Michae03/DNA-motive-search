@@ -1,0 +1,3 @@
+C:/Users/micha/CLionProjects/MotivSearching/cmake-build-debug/CMakeFiles/motivSearching.dir
+C:/Users/micha/CLionProjects/MotivSearching/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/micha/CLionProjects/MotivSearching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
